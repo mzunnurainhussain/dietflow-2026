@@ -1,0 +1,2 @@
+npm install next@14.2.35
+npm run build
