@@ -1,0 +1,30 @@
+dietflow-2026/
+├── app/
+│   ├── globals.css
+│   ├── layout.tsx
+│   ├── page.tsx
+│   ├── plan/
+│   │   └── page.tsx
+│   └── recommendations/
+│       ├── page.tsx
+│       └── ui.tsx
+├── components/
+│   ├── AppShell.tsx
+│   ├── Filters.tsx
+│   ├── Hero.tsx
+│   ├── MacroChips.tsx
+│   ├── RecipeCard.tsx
+│   ├── ThemeToggle.tsx
+│   └── WeeklyPlan.tsx
+├── data/
+│   ├── weekly_plan.csv
+│   └── top_recommendations_lunch.csv
+├── lib/
+│   ├── csv.ts
+│   └── nutrition.ts
+├── .gitignore
+├── next.config.js
+├── package.json
+├── postcss.config.js
+├── tailwind.config.ts
+└── tsconfig.json
